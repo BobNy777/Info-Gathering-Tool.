@@ -7,7 +7,7 @@ How to use:
 
 
 
--git clone 
+-git clone https://github.com/Jaaayden/Info-Gathering-Tool..git
 
 
 
